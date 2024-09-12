@@ -1,0 +1,7 @@
+Q1: Why might be consider using git?
+
+Answer: One might consider using git if they want a version controlled 
+platform to store their code. Additionally, git allows for version control and
+backups so you do not have to worry about losing your progress if your device
+malfunctions. Finally, git allows multiple people to collaborate on the same 
+files without it being confusing or difficult for each person to do their part.
