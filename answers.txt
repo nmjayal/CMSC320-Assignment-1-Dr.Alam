@@ -1,0 +1,18 @@
+Q1: Why might be consider using git?
+
+Answer: One might consider using git if they want a version controlled 
+platform to store their code. Additionally, git allows for version control and
+backups so you do not have to worry about losing your progress if your device
+malfunctions. Finally, git allows multiple people to collaborate on the same 
+files without it being confusing or difficult for each person to do their part.
+
+
+Q2: What field could data science be applied to? Give and Example and how it 
+might help.
+
+Answer: Data science can be applied to meteorology. Forecasting the weather 
+requires meteorologists to look a vast amount data such as climate details, 
+cloud patterns, wind speed and directions, and much more to create a prediction.
+Data science can streamline this process and model the data much farther in 
+advance. Data science can strenghten the predicitons of meteorologists and 
+provide us all with safer, more accurate weather forecasts.
