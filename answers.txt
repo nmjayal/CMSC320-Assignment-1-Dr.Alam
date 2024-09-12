@@ -16,3 +16,11 @@ cloud patterns, wind speed and directions, and much more to create a prediction.
 Data science can streamline this process and model the data much farther in 
 advance. Data science can strenghten the predicitons of meteorologists and 
 provide us all with safer, more accurate weather forecasts.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: The difference between merging and rebasing is that merging is for 
+adding your changes to another branch of the code and resolve any conflicts 
+that result from this while rebasing allows you to bring the most recent 
+updates to the code into your branch. 
