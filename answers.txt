@@ -24,3 +24,10 @@ Answer: The difference between merging and rebasing is that merging is for
 adding your changes to another branch of the code and resolve any conflicts 
 that result from this while rebasing allows you to bring the most recent 
 updates to the code into your branch. 
+
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to imporve my data visualization skills. I do not have much 
+experience with things like Jupiyter Notebooks or numpy so I am glad they will
+be covered in class.
